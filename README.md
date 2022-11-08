@@ -14,10 +14,11 @@ author: Jafet Barquero
 
 ## Obtendremos respuesta por parte del docker y podremos ver la imagenes descargadas
 
-** Ejemplo: 
+**Ejemplo: ** 
 
-REPOSITORY               TAG       IMAGE ID       CREATED          SIZE
-testnode                 latest    45a4fcb09a93   11 seconds ago   176MB **
+|REPOSITORY  |      TAG |      IMAGE ID   |    CREATED   |       SIZE  |
+|  --------  | -------- |   --------      |   ------     | -------     |
+|testnode   |              latest  |  45a4fcb09a93 |  11 seconds ago |  176MB |
 
 ## Debemos ejeutar el siguiente comando para poder iniciar y crear el contenedor que almacenara la imagen que hemos construido
 
