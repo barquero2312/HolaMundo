@@ -14,7 +14,7 @@ author: Jafet Barquero
 
 ## Obtendremos respuesta por parte del docker y podremos ver la imagenes descargadas
 
-**Ejemplo: ** 
+### Ejemplo: 
 
 |REPOSITORY  |      TAG |      IMAGE ID   |    CREATED   |       SIZE  |
 |  --------  | -------- |   --------      |   ------     | -------     |
